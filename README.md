@@ -74,5 +74,6 @@ endmodule
 ![318286529-cce75815-6586-4509-bc24-c13cbf4f4f53](https://github.com/Santharamanath/HALF_ADDER_SUBTRACTOR/assets/149035289/5ac0a2d5-9c87-4c85-9109-76a689d6d841)
 
 
+
 **Result:**
  Implementation-of-Half-Adder-and-Half Subtractor-circuit is excuted sucessfully.
